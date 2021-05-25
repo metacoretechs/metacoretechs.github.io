@@ -1,0 +1,28 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunbeam.com" resolutions="1x" timestamp="1618871249835">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="about.css" crc="308683650" ref="about"/>
+    <file name="contact.css" crc="495403179" ref="contact"/>
+    <file name="index.css" crc="378599236" ref="index"/>
+    <file name="productions.css" crc="68483549" ref="productions"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:productions:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:productions:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:productions:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about:productions:contact"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:productions:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:about:productions:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-1386603x767.svg" crc="222821676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1386603x767_poster_.png" crc="3849557994" ref="index"/>
+    <file name="u201-4.png" crc="4234225837" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4178625402" seo="true" mt="1618660147113" redirect="true"/>
+  <file name="about.html" crc="3970029849" seo="true" mt="1618829440076" redirect="true"/>
+  <file name="productions.html" crc="505824337" seo="true" mt="1618829704933" redirect="true"/>
+  <file name="contact.html" crc="3914340136" seo="true" mt="1616414022205" redirect="false"/>
+</manifest>
